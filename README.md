@@ -13,7 +13,7 @@ Find out more about me & connect with me here:
 - 🌱 I’m currently learning Linux, AWS, Python, Docker, and Terraform
 - 💞️ I’m looking to collaborate on anything that involves DevOps | Cloud 
 - 📫 How to reach me: https://www.linkedin.com/in/babu-macharia/
-- 🛠️ Some of my hobbies include: 🌎Traveling ☕Drinking too much coffee 🎬Binge watching random Youtube videos 🧑‍🤝‍🧑People watching 
+- 🛠️ Some of my hobbies include: 🌎Traveling, Slapping My Bass Guitar, Reading Books, Fishing
 
 
 

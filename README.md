@@ -19,9 +19,8 @@ Find out more about me & connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Stephen%20Cleary) -->
 
-![Linkedin Badge](https://img.shields.io/badge/-Stephen%20Cleary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/stephencleary-devops/)
-[![Medium Badge](https://img.shields.io/badge/Stephen%20Cleary-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@stepencleary)]([https://medium.com/@stepencleary]/)
-[![Gmail Badge](https://img.shields.io/badge/-steve0cleary@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve0cleary@gmail.com)](mailto:steve0cleary@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Babu%20Cleary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/babu-macharia/)
+[![Gmail Badge](https://img.shields.io/badge/-babu.macharia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:babu.macharia@gmail.com)](mailto:babu.macharia@gmail.com)
 
 
 

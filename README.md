@@ -1,6 +1,6 @@
 ### ![image](https://github.com/bmacharia/bmacharia/assets/66896673/67bd7f6d-40db-4215-9c2c-36b36898cfd9)
 
-<h1 align="center">Hi 👋, I'm Stephen Cleary! Pleasure to meet you!</h1>
+<h1 align="center">Hi 👋, I'm Babu Macharia Pleasure to meet you!</h1>
 <h3 align="center">A PASSIONATE DevOps | Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve0c&label=Profile%20views&color=0e75b6&style=flat" alt="steve0c" /> </p>
@@ -12,8 +12,7 @@ Find out more about me & connect with me here:
 - 👀 I’m interested in DevOps | Cloud Engineering
 - 🌱 I’m currently learning Linux, AWS, Python, Docker, and Terraform
 - 💞️ I’m looking to collaborate on anything that involves DevOps | Cloud 
-- 📫 How to reach me: www.linkedin.com/in/stephencleary-devops
-- 📝 I regularly write articles on [https://medium.com/@stepencleary](https://medium.com/@stepencleary)
+- 📫 How to reach me: https://www.linkedin.com/in/babu-macharia/
 - 🛠️ Some of my hobbies include: 🌎Traveling ☕Drinking too much coffee 🎬Binge watching random Youtube videos 🧑‍🤝‍🧑People watching 
 
 

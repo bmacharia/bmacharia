@@ -19,7 +19,7 @@ Find out more about me & connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Stephen%20Cleary) -->
 
-![Linkedin Badge](https://img.shields.io/badge/-Babu%20Cleary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/babu-macharia/)
+![Linkedin Badge](https://img.shields.io/badge/-Babu%20Macharia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/babu-macharia/)
 [![Gmail Badge](https://img.shields.io/badge/-babu.macharia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:babu.macharia@gmail.com)](mailto:babu.macharia@gmail.com)
 
 

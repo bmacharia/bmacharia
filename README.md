@@ -38,9 +38,3 @@ Find out more about me & connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=steve0c&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
-
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=steve0c%2Fsteve0c&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2Fsteve0c)s 🧑‍🤝‍🧑People wat

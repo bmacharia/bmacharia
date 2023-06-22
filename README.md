@@ -1,6 +1,6 @@
 ### ![image](https://github.com/bmacharia/bmacharia/assets/66896673/67bd7f6d-40db-4215-9c2c-36b36898cfd9)
 
-<h1 align="center">Hi 👋, I'm Babu Macharia Greetings to All!</h1>
+<h1 align="center">Hi I'm Babu Macharia Greetings to All!</h1>
 <h3 align="center">A PASSIONATE DevOps | Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve0c&label=Profile%20views&color=0e75b6&style=flat" alt="steve0c" /> </p>

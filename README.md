@@ -10,7 +10,7 @@
 Find out more about me & connect with me here:
 
 - 👀 I’m interested in DevOps | Cloud Engineering
-- 🌱 I’m currently learning Linux, AWS, Python, Docker, and Terraform
+- 🌱 Linux, AWS, Python, Golang, Docker,Terraform,Ansible
 - 💞️ I’m looking to collaborate on anything that involves DevOps | Cloud 
 - 📫 How to reach me: https://www.linkedin.com/in/babu-macharia/
 - 🛠️ Some of my hobbies include: 🌎Traveling, Slapping My Bass Guitar, Reading Books, Fishing

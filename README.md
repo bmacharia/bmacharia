@@ -9,7 +9,7 @@ AWS · Kubernetes (K3s/K3d) · Docker · Terraform · FluxCD · GitHub Actions �
 ### Production Kubernetes Cluster (pi-cluster)
 - GitOps with FluxCD and Kustomize; 100% environment consistency
 - Observability with Prometheus/Grafana; MTTR improvement
-- Edge-ready with Raspberry Pi and K3s; AI/LLM inference readiness
+- Edge-ready with Raspberry Pi and K3s.
 Repo: https://github.com/bmacharia/pi-cluster
 
 ### CI/CD Pipeline Automation (devops-study-app)

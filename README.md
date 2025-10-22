@@ -3,7 +3,7 @@
 I build cloud-native platforms with Kubernetes, GitOps, and automation—focused on reliability, developer velocity.
 
 ## 🔧 Tech Stack
-AWS · Kubernetes (K3s/K3d) · Docker · Terraform · FluxCD · GitHub Actions · Prometheus/Grafana/Loki · Python/Go/Bash
+AWS · Kubernetes (K8s/K3s/K3d) · Docker · Terraform · FluxCD · GitHub Actions · Prometheus/Grafana/Loki · Python/Go/Bash
 
 ## 🚀 Featured Projects
 ### Production Kubernetes Cluster (pi-cluster)

@@ -1,6 +1,6 @@
 
 # Hi, I’m Babu 👋
-I build cloud-native platforms with Kubernetes, GitOps, and automation—focused on reliability, developer velocity, and AI/LLM workload readiness.
+I build cloud-native platforms with Kubernetes, GitOps, and automation—focused on reliability, developer velocity.
 
 ## 🔧 Tech Stack
 AWS · Kubernetes (K3s/K3d) · Docker · Terraform · FluxCD · GitHub Actions · Prometheus/Grafana/Loki · Python/Go/Bash
@@ -22,3 +22,6 @@ Repo: https://github.com/bmacharia/devops-study-app
 Users → Ingress → Kubernetes (K3s) → Deployments/Services → FluxCD (reconcile)
                               ↘ Observability: Prometheus/Grafana
 CI → GitHub Actions → Build → Test → Scan(Trivy) → Push → Deploy via GitOps
+
+## 📫 Contact
+Email: babu.macharia@protonmail.com | LinkedIn: https://linkedin.com/in/babu-macharia

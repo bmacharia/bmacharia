@@ -1,27 +1,30 @@
-
 # Hi, I’m Babu 👋
-I build cloud-native platforms with Kubernetes, GitOps, and automation—focused on reliability, developer velocity.
+
+Cloud / Platform / DevOps Engineer | US Navy Veteran  
+I build secure, reliable, and automated Kubernetes platforms on **Azure (AKS)** and **AWS (EKS)** using Infrastructure as Code and GitOps.
 
 ## 🔧 Tech Stack
-AWS · Kubernetes (K8s/K3s/K3d) · Docker · Terraform · FluxCD · GitHub Actions · Prometheus/Grafana/Loki · Python/Go/Bash
+**Cloud & Orchestration:** Azure (AKS), AWS (EKS), Kubernetes (K8s / K3s / K3d)  
+**IaC & GitOps:** Terraform, FluxCD, Kustomize, Helm  
+**CI/CD & Security:** GitHub Actions, Trivy, DevContainers, SOPS  
+**Observability:** Prometheus, Grafana, Alertmanager, Loki  
+**Languages & Tools:** Python, Go, Bash, Docker, Linux
 
 ## 🚀 Featured Projects
-### Production Kubernetes Cluster (pi-cluster)
-- GitOps with FluxCD and Kustomize; 100% environment consistency
-- Observability with Prometheus/Grafana; MTTR improvement
-- Edge-ready with Raspberry Pi and K3s.
-Repo: https://github.com/bmacharia/pi-cluster
 
-### CI/CD Pipeline Automation (devops-study-app)
-- End-to-end GitHub Actions: lint (Ruff), test (PyTest), scan (Trivy), release (Release Please)
-- DevContainers for standardized developer environments
-- K3d deployment validation with zero-downtime rollout patterns
-Repo: https://github.com/bmacharia/devops-study-app
+### [kubernetes-platform-engineering](https://github.com/bmacharia/kubernetes-platform-engineering)
+Production-grade multi-tenant Kubernetes platform on **Azure AKS**  
+Terraform → FluxCD → Cilium → CloudNativePG → Prometheus/Grafana → automated tenant onboarding  
+Built phase-by-phase from a single VM to full self-service onboarding.
 
-## 🧭 Architecture (ASCII)
-Users → Ingress → Kubernetes (K3s) → Deployments/Services → FluxCD (reconcile)
-                              ↘ Observability: Prometheus/Grafana
-CI → GitHub Actions → Build → Test → Scan(Trivy) → Push → Deploy via GitOps
+### [pi-cluster](https://github.com/bmacharia/pi-cluster)
+GitOps Kubernetes platform on bare-metal K3s (Raspberry Pi)  
+FluxCD, SOPS + Age, MetalLB, Traefik, Longhorn, full observability stack, and public incident postmortems.
 
-## 📫 Contact
-Email: babu.macharia@protonmail.com | LinkedIn: https://linkedin.com/in/babu-macharia
+### [devops-study-app](https://github.com/bmacharia/devops-study-app)
+End-to-end CI/CD pipeline with quality and security gates  
+GitHub Actions + Ruff + PyTest + Trivy + Release Please + K3d validation + DevContainers.
+
+## 📫 Connect
+LinkedIn: [linkedin.com/in/babu-macharia](https://www.linkedin.com/in/babu-macharia)  
+Email: babu.macharia@protonmail.com
